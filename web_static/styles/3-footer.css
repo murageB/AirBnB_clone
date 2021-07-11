@@ -10,3 +10,7 @@ footer {
     text-align:center;
     align-items:center;
 }
+
+p {
+    vertical-align:center;
+}
